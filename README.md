@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivi-1
+- 👋 Hi, I’m Wei @vivi-1
 - 👀 I’m interested in bioinformatics and new techniques
 - 🌱 I’m currently learning plant pathology and looking for a job where I can create values using my skills in programming and molecular biology
 - 📫 Please reach me at wwei6@vt.edu
