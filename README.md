@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wei @vivi-1
 - 👀 I’m interested in programming and new techniques
-- 🌱 I’m currently learning plant pathology and looking for a job where I can create values using my skills in programming and molecular biology
+- 🌱 I’m currently studying plant pathology and looking for a job where I can provide values using my skills in programming and molecular biology
 - 📫 Please reach me at wwei6@vt.edu
 
 <!---
