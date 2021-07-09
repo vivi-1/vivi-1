@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wei @vivi-1
-- I am declared but I can't be defined because I have a big free store
+- 🏆 I was declared but I can't be defined because you have no idea how big my free store is
 - 👀 I’m interested in programming and new techniques
 - 🌱 I’m currently studying plant pathology and looking for a job where I can provide values using my skills in programming and molecular biology
 - 📫 Please reach me at wwei6@vt.edu
